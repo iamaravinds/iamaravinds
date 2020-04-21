@@ -1,2 +1,1 @@
-# iamaravinds
-My Page
+# Aravind Resume
